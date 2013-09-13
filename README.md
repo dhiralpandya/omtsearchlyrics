@@ -1,7 +1,7 @@
 Search Lyrics API
 ===============
 
-SearchLyricsAPI for java, It is use to search songs lyrics. 
+Java SearchLyricsAPI, It is use to search songs lyrics. 
 
 
 Example 1 :Search By Site
